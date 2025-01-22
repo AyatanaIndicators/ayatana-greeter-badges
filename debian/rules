@@ -1,0 +1,9 @@
+#!/usr/bin/make -f
+
+include /usr/share/dpkg/architecture.mk
+
+%:
+	dh $@
+
+override_dh_missing:
+	dh_missing --fail-missing

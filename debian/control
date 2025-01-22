@@ -1,0 +1,22 @@
+Source: ayatana-greeter-badges
+Section: x11
+Priority: optional
+Maintainer: Mike Gabriel <mike.gabriel@das-netzwerkteam.de>
+Standards-Version: 4.7.0
+Build-Depends: cmake,
+               debhelper-compat (= 12),
+Homepage: https://github.com/AyatanaIndicators/ayatana-greeter-badges
+Rules-Requires-Root: no
+Vcs-Git: https://github.com/AyatanaIndicators/ayatana-greeter-badges.git
+Vcs-Browser: https://github.com/AyatanaIndicators/ayatana-greeter-badges/
+
+Package: ayatana-greeter-badges
+Architecture: all
+Depends: ${misc:Depends},
+Description: Session badges for LightDM-based greeters
+ Arctica Greeter, Lomiri Greeter and Slick Greeter use very similar
+ session badge icons for visualizing the desktop sessions available for
+ user login.
+ .
+ This package provides a manifold of such badges, supplementing badges
+ shipped in the aforementioned greeter projects.

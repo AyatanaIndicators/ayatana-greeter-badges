@@ -1,0 +1,4 @@
+Overview of changes in ayatana-greeter-badges 0.1
+
+  - Initial release (factoring out greeter badges from
+    arctica-greeter 0.99.8.4).

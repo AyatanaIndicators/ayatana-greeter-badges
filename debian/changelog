@@ -1,0 +1,6 @@
+ayatana-greeter-badges (0.1) UNRELEASED; urgency=medium
+
+  * Upstream-provided Debian package for ayatana-greeter-badges.
+    See upstream ChangeLog for recent changes.
+
+ -- Mike Gabriel <mike.gabriel@das-netzwerkteam.de>  Wed, 22 Jan 2025 8:17:19 +0100
