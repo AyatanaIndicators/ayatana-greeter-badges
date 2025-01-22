@@ -1,5 +1,10 @@
 2025-01-22 Mike Gabriel
 
-        * release 0.1 (HEAD -> main, tag: 0.1)
+        * release 0.2 (HEAD -> main, tag: 0.2)
+        * data/badges/: Add a symlink for each session badge without '_badge'
+          in the icon name (for slick-greeter, if they want it).
+          (574acc7a)
+        * data/badges/: Add alternative session names as symlinks. (8ef62c52)
+        * release 0.1 (8e782104) (tag: 0.1)
         * Initial commit, factored out from arctica-greeter 0.99.8.4.
           (e2cedc71)
