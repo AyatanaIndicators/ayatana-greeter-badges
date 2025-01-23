@@ -13,7 +13,7 @@ Greeter, Lomiri Greeter and Slick Greeter after some adaptations.
 Adaptations have landed for:
 
   * [ ] Arctica Greeter
-  * [ ] Lomiri Greeter
+  * [ ] [Lomiri Greeter](https://gitlab.com/ubports/development/core/lomiri/-/merge_requests/194)
   * [ ] Slick Greeter
 
 # Credits
