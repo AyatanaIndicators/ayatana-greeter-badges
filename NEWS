@@ -1,3 +1,8 @@
+Overview of changes in ayatana-greeter-badges 0.3
+
+  - data/badges/CMakeLists.txt: Include symlinked badges when
+    installing.
+
 Overview of changes in ayatana-greeter-badges 0.2
 
   - data/badges/: Add alternative session names as symlinks.
